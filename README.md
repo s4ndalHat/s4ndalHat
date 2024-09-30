@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Kubernetes, CI/CD pipelines, GitOps**
 
-- 🌱 I’m learning **GoLang, Kubernetes, CI/CD, GitOps**
+- 🌱 I’m learning **Go programming language**
 
 - 💬 Ask me about **system programming, automation, networking**
 
@@ -15,7 +15,7 @@
 
 - 📫 Reach me at:  
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/winness-r)  
-  [![Email](https://img.shields.io/badge/Email-s4ndalHat@example.com-lightgrey)](mailto:winness.it@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-winness.it@gmail.com-lightgrey)](mailto:winness.it@gmail.com)
 
 - ⚡ Fun fact: **Debian only 🐧** *(Just kidding, I enjoy all Linux distributions)*
 
