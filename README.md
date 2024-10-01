@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @s4ndalHat</h1>
+<h1 align="center">Hi 👋, I'm @s4ndalHat, alias Winness Rakotozafy</h1>
 <h3 align="center">A Linux enthusiast, passionate about networking, system programming, and automation</h3>
 
 - 🔭 I’m currently working on **Kubernetes, CI/CD pipelines, GitOps**
@@ -7,14 +7,24 @@
 
 - 💬 Ask me about **system programming, automation, networking**
 
-- 💻 I contribute by submitting issues and helping others with:  
-  [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://about.gitlab.com/) 
-  [![Harbor](https://img.shields.io/badge/-Harbor-60B932?logo=harbor&logoColor=fff)](https://goharbor.io/)  
-  [![Velero](https://img.shields.io/badge/-Velero-3761A8?logo=velero&logoColor=fff)](https://velero.io/)  
-  [![k8up](https://img.shields.io/badge/-k8up-0078D7?logo=kubernetes&logoColor=fff)](https://k8up.io/)
+- 💻 I contribute by submitting issues and helping others with:
+  <p>
+    <a href="https://about.gitlab.com/">
+      <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=fff" alt="GitLab"/>
+    </a>
+    <a href="https://goharbor.io/">
+      <img src="https://img.shields.io/badge/-Harbor-60B932?logo=harbor&logoColor=fff" alt="Harbor"/>
+    </a>
+    <a href="https://velero.io/">
+      <img src="https://img.shields.io/badge/-Velero-3761A8?logo=velero&logoColor=fff" alt="Velero"/>
+    </a>
+    <a href="https://k8up.io/">
+      <img src="https://img.shields.io/badge/-k8up-0078D7?logo=kubernetes&logoColor=fff" alt="k8up"/>
+    </a>
+  </p>
 
-- 📫 Reach me at:  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/winness-r)  
+- 📫 Reach me at:
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/winness-r)
   [![Email](https://img.shields.io/badge/Email-winness.it@gmail.com-lightgrey)](mailto:winness.it@gmail.com)
 
 - ⚡ Fun fact: **Debian only 🐧** *(Just kidding, I enjoy all Linux distributions)*
