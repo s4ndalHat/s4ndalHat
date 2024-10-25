@@ -1,4 +1,4 @@
-<h1>Hello there 👋, I'm @s4ndalHat, alias Winness Rakotozafy</h1>
+<h1>Hello there 👋, I'm @s4ndalHat</h1>
 <h3>A Linux enthusiast, passionate about networking, system programming, and automation</h3>
 
 🔭 I’m currently working on **Kubernetes, CI/CD pipelines, GitOps**
